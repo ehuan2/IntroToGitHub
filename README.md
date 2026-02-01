@@ -1,4 +1,4 @@
-#  QLS-MiCM Intro To Git & GitHub -  Summer 2025
+#  QLS-MiCM Intro To Git & GitHub -  Winter 2026
 
 ## Overview
 
