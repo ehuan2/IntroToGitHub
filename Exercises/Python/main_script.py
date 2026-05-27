@@ -10,6 +10,7 @@ import plot_utils
 
 
 ##### Load and Clean The Data ####
+print('Hello, World!)
 
 
 #### Generate Statistics of Interest ####
