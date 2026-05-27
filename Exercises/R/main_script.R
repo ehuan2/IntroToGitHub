@@ -19,3 +19,4 @@ source("./visualize_data.R")
 
 #### Extra Tasks ####
 
+print("Hello, world!")
