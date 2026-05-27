@@ -45,3 +45,8 @@ V8 normal nucleoli.
 V9 mitoses.
 
 class "benign" or "malignant".
+
+
+
+
+Change a bit 20260527
